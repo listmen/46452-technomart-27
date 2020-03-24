@@ -288,6 +288,7 @@ body {
   color: #e9292a;
   font-size: 21px;
   display: inline-block;
+  text-decoration: none;
 }
 
 .contacts__phone:before {
